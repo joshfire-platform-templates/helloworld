@@ -3,6 +3,15 @@
 	"fullName":"Hello World",
 	"version":"0.0.1",
 	"description":"A very simple Hello World theme, only for test purposes!",
-	"graphic_small":"http://i.imgur.com/sm0MA.png",
-	"graphic_big":"http://i.imgur.com/x5NbC.png"
+	"joshfire":{
+	  "images":{
+	    "graphics":
+	      {
+	        "*":{
+	          "small":"http://i.imgur.com/sm0MA.png",
+	          "big":"http://i.imgur.com/x5NbC.png"
+	        }
+	      }
+	  }
+	}
 }
