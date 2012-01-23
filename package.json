@@ -4,7 +4,7 @@
 	"version":"0.0.1",
 	"description":"A very simple Hello World theme, only for test purposes!",
 	"joshfire":{
-	  "private":true,
+	  "devonly": true,
 	  "images":
 	      {
 	          "small":"http://i.imgur.com/sm0MA.png",
